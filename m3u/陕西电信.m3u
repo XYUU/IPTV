@@ -1,0 +1,10 @@
+#EXTM3U name="武汉电信IPTV"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1,tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1综合
+rtp://239.109.205.118:8880
+#EXTINF:-1,tvg-id="2" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字频道",CHC-高清电影
+rtp://239.112.205.206:5140
+#EXTINF:-1,tvg-id="3" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
+rtp://239.110.205.13:9798
+#EXTINF:-1,tvg-id="4" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+rtp://239.112.205:5140
