@@ -1,6 +1,6 @@
 # M3U播放列表处理工具
 * 可以输入多个目录，将文件名（不含后缀）相同的文件相合并，可以是txt文件，也可以是m3u文件。
-* 解析：自动根据文件后缀解析文件，txt后缀文件是csv格式，第一列是tvg-name，第二列是url。m3u后缀格式按照标准m3u格式解析，记住兼容两种情况。如：
+* 解析：自动根据文件后缀解析文件，txt后缀文件是csv格式，第一列是tvg-name，第二列是url,当url以#开头时忽略该行，当url以#分割两url时拆为两条url记录。m3u后缀格式按照标准m3u格式解析，记住兼容两种情况。如：
 
 ```m3u
 #EXTINF:-1 ,北京卫视4K
@@ -50,26 +50,29 @@ rtp://239.3.1.241:8000
 
 ## 使用方法
 合并两目录中的组播地址-仅合并两目录中都存在的
+```shell
 python M3U_Kit.py --input-dir "rtp" --input-dir "m3u" --output-dir "merged" --config "data.py"
+```
 合并两目录中的组播地址-包含不存在的
+```shell
 python M3U_Kit.py --input-dir "rtp" --input-dir "m3u" --output-dir "merged" --config "data.py" --convert-txt-to-m3u
-
+```
 ## 详细缺失列表（按省市排序）：
-  内蒙古移动.m3u
-  吉林移动.m3u
-  宁夏移动.m3u
-  安徽联通.m3u
-  广西移动.m3u
-  广西联通.m3u
-  新疆移动.m3u
-  新疆联通.m3u
-  江苏移动.m3u
-  江苏联通.m3u
-  江西移动.m3u
-  江西联通.m3u
-  浙江移动.m3u
-  甘肃移动.m3u
-  西藏移动.m3u
-  西藏联通.m3u
-  陕西联通.m3u
-  青海移动.m3u
+ * 内蒙古移动.m3u
+ * 吉林移动.m3u
+ * 宁夏移动.m3u
+ * 安徽联通.m3u
+ * 广西移动.m3u
+ * 广西联通.m3u
+ * 新疆移动.m3u
+ * 新疆联通.m3u
+ * 江苏移动.m3u
+ * 江苏联通.m3u
+ * 江西移动.m3u
+ * 江西联通.m3u
+ * 浙江移动.m3u
+ * 甘肃移动.m3u
+ * 西藏移动.m3u
+ * 西藏联通.m3u
+ * 陕西联通.m3u
+ * 青海移动.m3u
