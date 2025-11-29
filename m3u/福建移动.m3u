@@ -1,0 +1,4 @@
+#EXTM3U name="福建移动"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视4K超高清" tvg-logo="https://epg.112114.xyz/logo/北京卫视4K超高清.png" group-title="其他",北京卫视4K超高清
+rtp://239.253.0.53:1025

@@ -1,0 +1,6 @@
+#EXTM3U name="湖北移动"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="其他",湖北经视
+rtp://226.0.0.19:6108
+#EXTINF:-1 tvg-id="2" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="其他",湖北综合
+rtp://226.0.0.20:6108

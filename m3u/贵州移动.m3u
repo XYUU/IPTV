@@ -1,0 +1,330 @@
+#EXTM3U name="贵州移动"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV1
+rtp://239.10.2.122:5599
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视频道",CCTV2
+rtp://239.10.2.17:5599
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视频道",CCTV3
+rtp://239.10.2.148:5599
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视频道",CCTV4
+rtp://239.10.2.124:5599
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+rtp://239.10.1.63:5599
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视频道",CCTV5
+rtp://239.10.2.149:5599
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+rtp://239.10.2.237:5599
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视频道",CCTV6
+rtp://239.10.2.150:5599
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视频道",CCTV7
+rtp://239.10.2.22:5599
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视频道",CCTV8
+rtp://239.10.2.151:5599
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视频道",CCTV9
+rtp://239.10.2.174:5599
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视频道",CCTV10
+rtp://239.10.2.25:5599
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视频道",CCTV11
+rtp://239.10.2.26:5599
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视频道",CCTV12
+rtp://239.10.2.27:5599
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视频道",CCTV13
+rtp://239.10.2.28:5599
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视频道",CCTV14
+rtp://239.10.2.29:5599
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视频道",CCTV15
+rtp://239.10.2.30:5599
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视频道",CCTV16
+rtp://239.10.1.125:5599
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视频道",CCTV17
+rtp://239.10.2.152:5599
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="其他",CGTN
+rtp://239.10.2.93:5599
+#EXTINF:-1 tvg-id="21" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="其他",CGTN西语
+rtp://239.10.2.95:5599
+#EXTINF:-1 tvg-id="22" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="其他",CGTN法语
+rtp://239.10.2.94:5599
+#EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="其他",CGTN俄语
+rtp://239.10.2.96:5599
+#EXTINF:-1 tvg-id="24" tvg-name="CGTN阿语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿语.png" group-title="其他",CGTN阿语
+rtp://239.10.2.97:5599
+#EXTINF:-1 tvg-id="25" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+rtp://239.10.2.38:5599
+#EXTINF:-1 tvg-id="26" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视频道",北京卫视
+rtp://239.10.2.34:5599
+#EXTINF:-1 tvg-id="27" tvg-name="北京卫视4k" tvg-logo="https://epg.112114.xyz/logo/北京卫视4k.png" group-title="其他",北京卫视4k
+rtp://239.10.1.93:5599
+#EXTINF:-1 tvg-id="28" tvg-name="北京卫视4k" tvg-logo="https://epg.112114.xyz/logo/北京卫视4k.png" group-title="其他",北京卫视4k
+rtp://239.10.1.127:5599
+#EXTINF:-1 tvg-id="29" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+rtp://239.10.2.64:5599
+#EXTINF:-1 tvg-id="30" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+rtp://239.10.2.37:5599
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视频道",东方卫视
+rtp://239.10.2.36:5599
+#EXTINF:-1 tvg-id="32" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视频道",东南卫视
+rtp://239.10.2.55:5599
+#EXTINF:-1 tvg-id="33" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+rtp://239.10.2.43:5599
+#EXTINF:-1 tvg-id="34" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视频道",广东卫视
+rtp://239.10.2.56:5599
+#EXTINF:-1 tvg-id="35" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视频道",广西卫视
+rtp://239.10.2.47:5599
+#EXTINF:-1 tvg-id="36" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+rtp://239.10.2.121:5599
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视频道",海南卫视
+rtp://239.10.2.69:5599
+#EXTINF:-1 tvg-id="38" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视频道",河北卫视
+rtp://239.10.2.54:5599
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视频道",河南卫视
+rtp://239.10.2.45:5599
+#EXTINF:-1 tvg-id="40" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+rtp://239.10.2.50:5599
+#EXTINF:-1 tvg-id="41" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+rtp://239.10.2.39:5599
+#EXTINF:-1 tvg-id="42" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+rtp://239.10.2.123:5599
+#EXTINF:-1 tvg-id="43" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+rtp://239.10.2.42:5599
+#EXTINF:-1 tvg-id="44" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+rtp://239.10.2.33:5599
+#EXTINF:-1 tvg-id="45" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视频道",江西卫视
+rtp://239.10.2.46:5599
+#EXTINF:-1 tvg-id="46" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="卫视频道",康巴卫视
+rtp://239.10.2.67:5599
+#EXTINF:-1 tvg-id="47" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+rtp://239.10.2.41:5599
+#EXTINF:-1 tvg-id="48" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+rtp://239.10.2.52:5599
+#EXTINF:-1 tvg-id="49" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+rtp://239.10.2.53:5599
+#EXTINF:-1 tvg-id="50" tvg-name="农林卫视" tvg-logo="https://epg.112114.xyz/logo/农林卫视.png" group-title="卫视频道",农林卫视
+rtp://239.10.2.68:5599
+#EXTINF:-1 tvg-id="51" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视频道",青海卫视
+rtp://239.10.2.60:5599
+#EXTINF:-1 tvg-id="52" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+rtp://239.10.1.105:5599
+#EXTINF:-1 tvg-id="53" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="其他",厦门卫视
+rtp://239.10.2.61:5599
+#EXTINF:-1 tvg-id="54" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视频道",山东卫视
+rtp://239.10.2.35:5599
+#EXTINF:-1 tvg-id="55" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视频道",山西卫视
+rtp://239.10.2.59:5599
+#EXTINF:-1 tvg-id="56" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+rtp://239.10.2.49:5599
+#EXTINF:-1 tvg-id="57" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+rtp://239.10.2.51:5599
+#EXTINF:-1 tvg-id="58" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视频道",四川卫视
+rtp://239.10.2.48:5599
+#EXTINF:-1 tvg-id="59" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视频道",天津卫视
+rtp://239.10.2.44:5599
+#EXTINF:-1 tvg-id="60" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+rtp://239.10.2.58:5599
+#EXTINF:-1 tvg-id="61" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+rtp://239.10.2.57:5599
+#EXTINF:-1 tvg-id="62" tvg-name="延边卫视" tvg-logo="https://epg.112114.xyz/logo/延边卫视.png" group-title="卫视频道",延边卫视
+rtp://239.10.2.63:5599
+#EXTINF:-1 tvg-id="63" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视频道",云南卫视
+rtp://239.10.2.40:5599
+#EXTINF:-1 tvg-id="64" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+rtp://239.10.2.125:5599
+#EXTINF:-1 tvg-id="65" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="卫视频道",CETV1
+rtp://239.10.2.75:5599
+#EXTINF:-1 tvg-id="66" tvg-name="贵州-2 公共频道" group-title="其他",贵州-2 公共频道
+rtp://239.10.2.2:5599
+#EXTINF:-1 tvg-id="67" tvg-name="贵州-3 影视文艺频道" group-title="其他",贵州-3 影视文艺频道
+rtp://239.10.2.3:5599
+#EXTINF:-1 tvg-id="68" tvg-name="贵州-4 大众生活频道" group-title="其他",贵州-4 大众生活频道
+rtp://239.10.2.4:5599
+#EXTINF:-1 tvg-id="69" tvg-name="贵州-5 法制频道" group-title="其他",贵州-5 法制频道
+rtp://239.10.2.5:5599
+#EXTINF:-1 tvg-id="70" tvg-name="贵州-6 科教健康频道" group-title="其他",贵州-6 科教健康频道
+rtp://239.10.2.6:5599
+#EXTINF:-1 tvg-id="71" tvg-name="贵州-7 经济频道" group-title="其他",贵州-7 经济频道
+rtp://239.10.2.7:5599
+#EXTINF:-1 tvg-id="72" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="数字频道",天元围棋
+rtp://239.10.2.8:5599
+#EXTINF:-1 tvg-id="73" tvg-name="摄影频道" tvg-logo="https://epg.112114.xyz/logo/摄影频道.png" group-title="其他",摄影频道
+rtp://239.10.2.9:5599
+#EXTINF:-1 tvg-id="74" tvg-name="家有购物 （高清）" group-title="其他",家有购物 （高清）
+rtp://239.10.2.10:5599
+#EXTINF:-1 tvg-id="75" tvg-name="贵阳-1 新闻综合频道（高清）" group-title="其他",贵阳-1 新闻综合频道（高清）
+rtp://239.10.2.11:5599
+#EXTINF:-1 tvg-id="76" tvg-name="贵阳-2 经济生活频道" group-title="其他",贵阳-2 经济生活频道
+rtp://239.10.2.12:5599
+#EXTINF:-1 tvg-id="77" tvg-name="贵阳-3  法制频道" group-title="其他",贵阳-3  法制频道
+rtp://239.10.2.13:5599
+#EXTINF:-1 tvg-id="78" tvg-name="贵阳-4 都市频道" group-title="其他",贵阳-4 都市频道
+rtp://239.10.2.14:5599
+#EXTINF:-1 tvg-id="79" tvg-name="贵阳-5 旅游生活频道" group-title="其他",贵阳-5 旅游生活频道
+rtp://239.10.2.15:5599
+#EXTINF:-1 tvg-id="80" tvg-name="广东南方卫视" tvg-logo="https://epg.112114.xyz/logo/广东南方卫视.png" group-title="其他",广东南方卫视
+rtp://239.10.2.62:5599
+#EXTINF:-1 tvg-id="81" tvg-name="安多卫视" tvg-logo="https://epg.112114.xyz/logo/安多卫视.png" group-title="卫视频道",安多卫视
+rtp://239.10.2.66:5599
+#EXTINF:-1 tvg-id="82" tvg-name="西藏藏语卫视" tvg-logo="https://epg.112114.xyz/logo/西藏藏语卫视.png" group-title="其他",西藏藏语卫视
+rtp://239.10.2.70:5599
+#EXTINF:-1 tvg-id="83" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
+rtp://239.10.2.71:5599
+#EXTINF:-1 tvg-id="84" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="数字频道",哈哈炫动
+rtp://239.10.2.72:5599
+#EXTINF:-1 tvg-id="85" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="数字频道",优漫卡通
+rtp://239.10.2.73:5599
+#EXTINF:-1 tvg-id="86" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
+rtp://239.10.2.74:5599
+#EXTINF:-1 tvg-id="87" tvg-name="BTV KAKU少儿" group-title="其他",BTV KAKU少儿
+rtp://239.10.2.76:5599
+#EXTINF:-1 tvg-id="88" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="卫视频道",山东教育卫视
+rtp://239.10.2.77:5599
+#EXTINF:-1 tvg-id="89" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视频道",CCTV-风云音乐
+rtp://239.10.2.78:5599
+#EXTINF:-1 tvg-id="90" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视频道",CCTV-第一剧场
+rtp://239.10.2.79:5599
+#EXTINF:-1 tvg-id="91" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视频道",CCTV-世界地理
+rtp://239.10.2.220:5599
+#EXTINF:-1 tvg-id="92" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视频道",CCTV-女性时尚
+rtp://239.10.2.81:5599
+#EXTINF:-1 tvg-id="93" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视频道",CCTV-风云剧场
+rtp://239.10.2.82:5599
+#EXTINF:-1 tvg-id="94" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视频道",CCTV-风云足球
+rtp://239.10.2.83:5599
+#EXTINF:-1 tvg-id="95" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="央视频道",CCTV-电视指南
+rtp://239.10.2.224:5599
+#EXTINF:-1 tvg-id="96" tvg-name="CCTV-高尔夫.网球" group-title="其他",CCTV-高尔夫.网球
+rtp://239.10.2.225:5599
+#EXTINF:-1 tvg-id="97" tvg-name="央视文化精品" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png" group-title="央视频道",CCTV-央视文化精品
+rtp://239.10.2.226:5599
+#EXTINF:-1 tvg-id="98" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
+rtp://239.10.2.227:5599
+#EXTINF:-1 tvg-id="99" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视频道",CCTV-兵器科技
+rtp://239.10.2.228:5599
+#EXTINF:-1 tvg-id="100" tvg-name="中央新影-老故事" group-title="其他",中央新影-老故事
+rtp://239.10.2.89:5599
+#EXTINF:-1 tvg-id="101" tvg-name="中央新影-新科动漫" group-title="其他",中央新影-新科动漫
+rtp://239.10.2.90:5599
+#EXTINF:-1 tvg-id="102" tvg-name="中央新影-中学生" group-title="其他",中央新影-中学生
+rtp://239.10.2.91:5599
+#EXTINF:-1 tvg-id="103" tvg-name="CETV-早期教育" group-title="其他",CETV-早期教育
+rtp://239.10.2.92:5599
+#EXTINF:-1 tvg-id="104" tvg-name="CGTN-DOCUMENTARY（纪实）" group-title="其他",CGTN-DOCUMENTARY（纪实）
+rtp://239.10.2.98:5599
+#EXTINF:-1 tvg-id="105" tvg-name="音像世界" group-title="其他",音像世界
+rtp://239.10.2.167:5599
+#EXTINF:-1 tvg-id="106" tvg-name="靓妆" tvg-logo="https://epg.112114.xyz/logo/靓妆.png" group-title="其他",靓妆
+rtp://239.10.2.100:5599
+#EXTINF:-1 tvg-id="107" tvg-name="环球奇观" tvg-logo="https://epg.112114.xyz/logo/环球奇观.png" group-title="央视频道",环球奇观
+rtp://239.10.2.101:5599
+#EXTINF:-1 tvg-id="108" tvg-name="DV生活" group-title="其他",DV生活
+rtp://239.10.2.102:5599
+#EXTINF:-1 tvg-id="109" tvg-name="梨园频道" tvg-logo="https://epg.112114.xyz/logo/梨园频道.png" group-title="数字频道",梨园频道
+rtp://239.10.2.103:5599
+#EXTINF:-1 tvg-id="110" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="数字频道",武术世界
+rtp://239.10.2.104:5599
+#EXTINF:-1 tvg-id="111" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="数字频道",文物宝库
+rtp://239.10.2.105:5599
+#EXTINF:-1 tvg-id="112" tvg-name="国学频道" tvg-logo="https://epg.112114.xyz/logo/国学频道.png" group-title="央视频道",国学频道
+rtp://239.10.2.106:5599
+#EXTINF:-1 tvg-id="113" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="数字频道",汽摩
+rtp://239.10.2.107:5599
+#EXTINF:-1 tvg-id="114" tvg-name="彩民在线" group-title="其他",彩民在线
+rtp://239.10.2.108:5599
+#EXTINF:-1 tvg-id="115" tvg-name="上海纪实（高清）" group-title="其他",上海纪实（高清）
+rtp://239.10.2.111:5599
+#EXTINF:-1 tvg-id="116" tvg-name="北京冬奥纪实 （高清）" group-title="其他",北京冬奥纪实 （高清）
+rtp://239.10.2.112:5599
+#EXTINF:-1 tvg-id="117" tvg-name="金鹰纪实（高清）" group-title="其他",金鹰纪实（高清）
+rtp://239.10.2.113:5599
+#EXTINF:-1 tvg-id="118" tvg-name="体育赛事" tvg-logo="https://epg.112114.xyz/logo/体育赛事.png" group-title="其他",体育赛事
+rtp://239.10.2.203:5599
+#EXTINF:-1 tvg-id="119" tvg-name="CCTV-台球" group-title="其他",CCTV-台球
+rtp://239.10.2.229:5599
+#EXTINF:-1 tvg-id="120" tvg-name="遵义-综合" group-title="其他",遵义-综合
+rtp://239.10.2.172:5599
+#EXTINF:-1 tvg-id="121" tvg-name="遵义-公共" group-title="其他",遵义-公共
+rtp://239.10.2.171:5599
+#EXTINF:-1 tvg-id="122" tvg-name="遵义-都市" group-title="其他",遵义-都市
+rtp://239.10.2.173:5599
+#EXTINF:-1 tvg-id="123" tvg-name="六盘水-1" tvg-logo="https://epg.112114.xyz/logo/六盘水-1.png" group-title="其他",六盘水-1
+rtp://239.10.2.117:5599
+#EXTINF:-1 tvg-id="124" tvg-name="六盘水-2" tvg-logo="https://epg.112114.xyz/logo/六盘水-2.png" group-title="其他",六盘水-2
+rtp://239.10.2.118:5599
+#EXTINF:-1 tvg-id="125" tvg-name="贵州移动电视" tvg-logo="https://epg.112114.xyz/logo/贵州移动电视.png" group-title="其他",贵州移动电视
+rtp://239.10.2.119:5599
+#EXTINF:-1 tvg-id="126" tvg-name="黔西南-综合" group-title="其他",黔西南-综合
+rtp://239.10.2.135:5599
+#EXTINF:-1 tvg-id="127" tvg-name="黔西南-公共" group-title="其他",黔西南-公共
+rtp://239.10.2.136:5599
+#EXTINF:-1 tvg-id="128" tvg-name="毕节-1（高清）" group-title="其他",毕节-1（高清）
+rtp://239.10.2.146:5599
+#EXTINF:-1 tvg-id="129" tvg-name="毕节-2（高清）" group-title="其他",毕节-2（高清）
+rtp://239.10.2.147:5599
+#EXTINF:-1 tvg-id="130" tvg-name="黔南-1" group-title="其他",黔南-1
+rtp://239.10.2.169:5599
+#EXTINF:-1 tvg-id="131" tvg-name="黔南-2" group-title="其他",黔南-2
+rtp://239.10.2.170:5599
+#EXTINF:-1 tvg-id="132" tvg-name="安顺-1 新闻频道" group-title="其他",安顺-1 新闻频道
+rtp://239.10.2.175:5599
+#EXTINF:-1 tvg-id="133" tvg-name="安顺-2 公共频道" group-title="其他",安顺-2 公共频道
+rtp://239.10.2.176:5599
+#EXTINF:-1 tvg-id="134" tvg-name="铜仁-1  新闻综合频道" group-title="其他",铜仁-1  新闻综合频道
+rtp://239.10.2.120:5599
+#EXTINF:-1 tvg-id="135" tvg-name="铜仁-2  公共频道" group-title="其他",铜仁-2  公共频道
+rtp://239.10.2.217:5599
+#EXTINF:-1 tvg-id="136" tvg-name="黔东南-1（新闻综合）" group-title="其他",黔东南-1（新闻综合）
+rtp://239.10.2.156:5599
+#EXTINF:-1 tvg-id="137" tvg-name="凯里频道" group-title="其他",凯里频道
+rtp://239.10.2.213:5599
+#EXTINF:-1 tvg-id="138" tvg-name="雷山综合（高清）" group-title="其他",雷山综合（高清）
+rtp://239.10.2.137:5599
+#EXTINF:-1 tvg-id="139" tvg-name="黔西综合频道" group-title="其他",黔西综合频道
+rtp://239.10.2.65:5599
+#EXTINF:-1 tvg-id="140" tvg-name="桐梓综合" tvg-logo="https://epg.112114.xyz/logo/桐梓综合.png" group-title="其他",桐梓综合
+rtp://239.10.2.233:5599
+#EXTINF:-1 tvg-id="141" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="数字频道",都市剧场
+rtp://239.10.2.128:5599
+#EXTINF:-1 tvg-id="142" tvg-name="谍战剧场" tvg-logo="https://epg.112114.xyz/logo/谍战剧场.png" group-title="其他",谍战剧场
+rtp://239.10.2.129:5599
+#EXTINF:-1 tvg-id="143" tvg-name="动画乐园" group-title="其他",动画乐园
+rtp://239.10.2.130:5599
+#EXTINF:-1 tvg-id="144" tvg-name="海外佳片" group-title="其他",海外佳片
+rtp://239.10.2.131:5599
+#EXTINF:-1 tvg-id="145" tvg-name="华语影院" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="其他",华语影院
+rtp://239.10.2.132:5599
+#EXTINF:-1 tvg-id="146" tvg-name="经典剧场" tvg-logo="https://epg.112114.xyz/logo/经典剧场.png" group-title="其他",经典剧场
+rtp://239.10.2.144:5599
+#EXTINF:-1 tvg-id="147" tvg-name="热门综艺" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺
+rtp://239.10.2.145:5599
+#EXTINF:-1 tvg-id="148" tvg-name="家有易购" group-title="其他",家有易购
+rtp://239.10.2.133:5599
+#EXTINF:-1 tvg-id="149" tvg-name="家有精选" group-title="其他",家有精选
+rtp://239.10.2.168:5599
+#EXTINF:-1 tvg-id="150" tvg-name="科普中国" tvg-logo="https://epg.112114.xyz/logo/科普中国.png" group-title="其他",科普中国
+rtp://239.10.2.157:5599
+#EXTINF:-1 tvg-id="151" tvg-name="映画频道" group-title="其他",映画频道
+rtp://239.10.2.158:5599
+#EXTINF:-1 tvg-id="152" tvg-name="剧场频道" group-title="其他",剧场频道
+rtp://239.10.2.159:5599
+#EXTINF:-1 tvg-id="153" tvg-name="新知频道" group-title="其他",新知频道
+rtp://239.10.2.160:5599
+#EXTINF:-1 tvg-id="154" tvg-name="新艺频道" group-title="其他",新艺频道
+rtp://239.10.2.161:5599
+#EXTINF:-1 tvg-id="155" tvg-name="雅趣频道" group-title="其他",雅趣频道
+rtp://239.10.2.162:5599
+#EXTINF:-1 tvg-id="156" tvg-name="怡家频道" group-title="其他",怡家频道
+rtp://239.10.2.163:5599
+#EXTINF:-1 tvg-id="157" tvg-name="英伦频道" group-title="其他",英伦频道
+rtp://239.10.2.164:5599
+#EXTINF:-1 tvg-id="158" tvg-name="环映频道" group-title="其他",环映频道
+rtp://239.10.2.165:5599
+#EXTINF:-1 tvg-id="159" tvg-name="DOX4K频道" group-title="其他",DOX4K频道
+rtp://239.10.2.166:5599
+#EXTINF:-1 tvg-id="160" tvg-name="贵州卫视-2" group-title="其他",贵州卫视-2
+rtp://239.10.2.116:5599
+#EXTINF:-1 tvg-id="161" tvg-name="六屏导视-移动" group-title="其他",六屏导视-移动
+rtp://239.10.2.134:5599
+#EXTINF:-1 tvg-id="162" tvg-name="六屏导视-组播" group-title="其他",六屏导视-组播
+rtp://239.10.2.126:5599
+#EXTINF:-1 tvg-id="163" tvg-name="智慧花果园" group-title="其他",智慧花果园
+rtp://239.10.2.153:5599
+#EXTINF:-1 tvg-id="164" tvg-name="黔南三会5G演示-2" group-title="其他",黔南三会5G演示-2
+rtp://239.10.2.154:5599

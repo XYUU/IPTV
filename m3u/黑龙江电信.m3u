@@ -1,0 +1,4 @@
+#EXTM3U name="黑龙江电信"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="238.123.45.21:8080" group-title="其他",238.123.45.21:8080
+rtp://238.123.45.21:8080
